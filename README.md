@@ -1,5 +1,3 @@
 ### Hi everyone 👋
-
-> I am Web developer engineer
-
->welcome to my Hub!
+I am Web developer engineer
+welcome to my Hub!
